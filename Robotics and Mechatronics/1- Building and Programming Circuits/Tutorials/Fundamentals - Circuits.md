@@ -150,4 +150,6 @@ Let’s discuss:
 1. Try and create a voltage divider to turn a 6V input into a lower input. Design your circuit, do some maths and hook up an LED to the Vout. Use a multimeter to measure the LED voltage to see if you’re correct!
 2. Potentiometers...let’s talk about those. They’re pretty much variable voltage dividers. Have a look at the following diagram of a potentiometer and discuss how this works. (Pin 1 is the Vin, Pin 3 is the GND, Pin 2 is the wiper/Vout.
 
+<br>
+
 ![[potentiometer_voltagediv.png]]

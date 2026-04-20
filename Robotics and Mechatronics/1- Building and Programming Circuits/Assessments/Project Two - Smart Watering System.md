@@ -97,7 +97,7 @@ To prove your learning in practical application, you must submit:
     
 3. **The Data Log:** The actual `.csv` or `.txt` file pulled directly from your MicroSD card and uploaded to Google Classroom (Evidence that your data logger successfully recorded over time).
     
-4. **The Evidence Guide:** Your formal documentation (PDF) submitted to Google Classroom.
+4. **Project Description:** Some documentation about your build, operating instructions and a breakdown of it's functionality.
     
 
 ### _Evidence Guide Specifics for this Task:_
