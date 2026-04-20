@@ -3,6 +3,7 @@
 > [!NOTE] Semester Overview
 > Project One - Escape Room
 > [[Project Two - Smart Watering System]]
+> [[Glossary of Terms - Robotics]]
 
 ## Semester Plan
 ### Term One
