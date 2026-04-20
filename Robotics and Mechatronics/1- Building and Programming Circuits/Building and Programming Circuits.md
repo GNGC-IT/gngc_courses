@@ -18,7 +18,7 @@
 | ![[S1 Calendar#School Events - Week 7]]    |Working on Assessments     |     |
 | ![[S1 Calendar#School Events - Week 8]]    |Working on Assessments     |Assessment 1 Due     |
 | ![[S1 Calendar#School Events - Week 9]]    |Working on Assessments     |Evidence Guide Due     |
-| ![[S1 Calendar#School Events - Week 10]]    |Disassemble Assessments, Discuss Feedback     |     |
+| ![[S1 Calendar#School Events - Week 10]]   |Disassemble Assessments, Discuss Feedback     |     |
 
 ### Term Two
 
@@ -26,15 +26,15 @@
 | --- | --- | --- |
 | ![[S1 Calendar#School Events - Week 11]]    |[[Fundamentals - Circuits]]     |Voltage Calculation Work - Multimeter Practice |
 | ![[S1 Calendar#School Events - Week 12]]    |[[Fundamentals - Programming]]     |     |
-| ![[S1 Calendar#School Events - Week 13]]    |[[Fundamentals - Modular Programming]]     |     |
-| ![[S1 Calendar#School Events - Week 14]]    |     |     |
-| ![[S1 Calendar#School Events - Week 15]]    |     |     |
-| ![[S1 Calendar#School Events - Week 16]]    |     |     |
-| ![[S1 Calendar#School Events - Week 17]]    |     |     |
-| ![[S1 Calendar#School Events - Week 18]]    |     |     |
-| ![[S1 Calendar#School Events - Week 19]]    ||     |
-| ![[S1 Calendar#School Events - Week 20]]    |     |     |
-| ![[S1 Calendar#School Events - Week 21]]    |     |     |
+| ![[S1 Calendar#School Events - Week 13]]    |[[Fundamentals - Modular Programming]]     |Programming Challenge Files     |
+| ![[S1 Calendar#School Events - Week 14]]    |[[Inputs - Sensors, Readings and Logging]]     |     |
+| ![[S1 Calendar#School Events - Week 15]]    |Working on Assessments <br>[[System Integration & Testing]]     |     |
+| ![[S1 Calendar#School Events - Week 16]]    |Working on Assignments     |     |
+| ![[S1 Calendar#School Events - Week 17]]    |Working on Assignments     |Project Two (30%) Due - Tuesday     |
+| ![[S1 Calendar#School Events - Week 18]]    |Working on Assignments<br>Project Interviews     |Evidence Guide Two Due (20%) - Tuesday     |
+| ![[S1 Calendar#School Events - Week 19]]    |Lab Cleanup     |     |
+| ![[S1 Calendar#School Events - Week 20]]    |Feedback Day     |     |
+| ![[S1 Calendar#School Events - Week 21]]    |No Classes     |     |
 
 ## Subject Information
 
