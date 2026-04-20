@@ -10,7 +10,7 @@
 > - Ohm's Law ($V = I \times R$) - Voltage is equal to Current times Resistance
 > - Power ($P = V \times I$).
 
-### **The Problem:** 
+### **The Problem** 
 
 When you break down the [[Project Two - Smart Watering System]] assessment, you'll see that you're required to ensure that the power systems of your project are accuratly calculated in order to ensure the arduino doesn't..._blow up_. Microcontrollers have very specific power requirements to ensure that their onboard systems get exactly the current they need, but also they are designed to have a very low power draw to be as efficient as possible. Throwing a 5 - 12V DC motor into the mix, or devices that use _inductive load_ isn't good for our little microcontrollers, and this care for understanding current also applies to the inputs and outputs we use in our projects.
 
@@ -30,7 +30,7 @@ A couple of words to explain there. **Proportional** is a fancy way of saying "e
 
 To test your understanding of Ohm’s Law, try to calculate the current of a 12V circuit with two 330Ω resistors manually, and then use a [calculator](https://www.allaboutcircuits.com/tools/ohms-law-calculator/) to confirm your findings.
 
-#### Challenge 
+### Challenge 
 Calculate the current draw of a 5V DC pump vs. the maximum output of an Arduino digital pin (~40mA). Prove mathematically that wiring a pump directly to the board will fry the microcontroller.
 
 
