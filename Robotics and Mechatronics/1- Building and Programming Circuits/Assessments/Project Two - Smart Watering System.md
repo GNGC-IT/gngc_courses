@@ -100,8 +100,7 @@ To prove your learning in practical application, you must submit:
 4. **Project Description:** Some documentation about your build, operating instructions and a breakdown of it's functionality.
     
 
-### _Evidence Guide Specifics for this Task:_
-
-- **Proof of Logic (Schematics):** You must include a clear circuit diagram showing how the Relay isolates the high-current pump from the low-current Arduino.
-    
-- **Impact & Ethics (WHS):** Your Risk Assessment **must** explicitly address the hazards of mixing conductive liquids (water) with electronics, and detail the control measures you took to prevent damage or injury.
+> [!Warning]- Evidence Guide Specifics for this Task:
+> - **Proof of Logic (Schematics):** You must include a clear circuit diagram showing how the Relay isolates the high-current pump from the low-current Arduino.
+>     
+> - **Impact & Ethics (WHS):** Your Risk Assessment **must** explicitly address the hazards of mixing conductive liquids (water) with electronics, and detail the control measures you took to prevent damage or injury.
