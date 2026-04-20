@@ -3,7 +3,7 @@
 **Focus:** Ohm's Law, Power, and Relays 
 **Goal:** Students understand _why_ microcontrollers need help driving heavy loads and learn to wire a relay safely.
 
-- ## Lesson 1: Ohm's Law & Microcontroller Limits**
+## Lesson 1: Ohm's Law & Microcontroller Limits**
     
 
 > [!hint] Ohm's Law
