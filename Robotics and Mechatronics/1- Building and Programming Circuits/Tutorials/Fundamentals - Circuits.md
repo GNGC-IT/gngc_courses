@@ -37,11 +37,17 @@ Calculate the current draw of a 5V DC pump vs. the maximum output of an Arduino 
 
 ## Lesson 2: Isolation & Relays
     
-**Theory (T-Course Focus):** Introduce inductive loads and mechanical/optical isolation. Explain how a relay uses a tiny electromagnet (Arduino side) to pull a high-power physical switch (Pump side).
+**Learning Intention:** Understand inductive loads and mechanical/optical isolation. Explain how a relay uses a tiny electromagnet (Arduino side) to pull a high-power physical switch (Pump side).
         
-**Practical:** Wire a 5V Relay module. Write a basic script to make the relay "click" on and off every 5 seconds.
+**Practical Outcome:** Wire a 5V Relay module. Write a basic script to make the relay "click" on and off every 5 seconds.
 
-```
+### Relay Circuit Design
+
+![[How-To-Use-A-Relay-With-Arduino-728x410.jpg]]
+
+Here you'll 
+
+```arduino
 const int relayPin = 4; // Pin connected to the relay IN pin
 
 void setup() {
@@ -57,6 +63,8 @@ void loop() {
   delay(2000);                 // Wait 2 seconds
 }
 ```
+
+
 
 ## Lesson 3: WHS & "Wet Zone" Briefing
     

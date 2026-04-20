@@ -48,6 +48,7 @@
 **Somehow...students returned**
 ![[somehow-palpatine-returned-somehow.gif]]
 **Monday** is a Pupil Free Day!
+**Tuesday** Assessment 3 & 4 Released
 **Thursday** - Student Progress Conferences
 
 ### School Events - Week 12
@@ -71,10 +72,12 @@
 ### School Events - Week 17
 *June 1 - June 5*
 **Monday 1st** - Reconciliation Day Public Holiday
+**Tuesday 2nd** Assessment 3 Due
 
 ### School Events - Week 18
 *June 8 - June 12*
 **Monday** - King's Birthday Public Holiday
+**Tuesday 9th** Assessment 4 Due
 
 ### School Events - Week 19
 *June 15 - June 19*
