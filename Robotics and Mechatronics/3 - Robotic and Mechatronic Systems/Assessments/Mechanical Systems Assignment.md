@@ -1,4 +1,4 @@
-# Assessment Task 3: The Mechanical Narrative
+# Assessment Task 3: The Mechanical Systems Project
 
 ![[Copy of Robotics Banner (600 x 200 px).png]]
 

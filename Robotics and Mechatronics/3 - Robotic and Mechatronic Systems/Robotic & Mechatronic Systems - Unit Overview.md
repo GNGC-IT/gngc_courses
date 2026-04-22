@@ -30,8 +30,8 @@ This page has all the information on the course content and assessment tasks. Fo
 ## Assessments
 
 The unit has two major assessment tasks:
-- Project One - Escape Room
-- Project Two - Automated Watering System
+- Project One - Smart City Project
+- Project Two - Mechanical Systems Project
 
 For each of these Tasks you'll be required to complete an [[Evidence Guide]]. These guides are traditionally due a week after the Project due date but should be worked on *while the project is in process*.
 
