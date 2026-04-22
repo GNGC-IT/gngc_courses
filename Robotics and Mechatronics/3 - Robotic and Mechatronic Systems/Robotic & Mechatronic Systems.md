@@ -9,9 +9,9 @@
 |Whole School Events     |Content     |Submissions     |
 | --- | --- | --- |
 | ![[S1 Calendar#School Events - Week 11]]    |[[Mechanical Advantage & Structural Design]]     | |
-| ![[S1 Calendar#School Events - Week 12]]    |[[Fundamentals - Programming]]     |     |
-| ![[S1 Calendar#School Events - Week 13]]    |[[Fundamentals - Modular Programming]]     |     |
-| ![[S1 Calendar#School Events - Week 14]]    |Working on Assessments     |     |
+| ![[S1 Calendar#School Events - Week 12]]    |[[Electronics and Power Management]]     |     |
+| ![[S1 Calendar#School Events - Week 13]]    |[[Software Architecture & Sensory Input]]     |     |
+| ![[S1 Calendar#School Events - Week 14]]    |[[Iterative Testing and Final Refinement]]     |     |
 | ![[S1 Calendar#School Events - Week 15]]    |Working on Assessments     |     |
 | ![[S1 Calendar#School Events - Week 16]]    |Working on Assignments     |     |
 | ![[S1 Calendar#School Events - Week 17]]    |Working on Assignments     |Project Two (30%) Due - Tuesday     |

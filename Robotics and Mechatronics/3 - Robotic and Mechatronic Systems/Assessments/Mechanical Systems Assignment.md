@@ -1,5 +1,7 @@
 # Assessment Task 3: The Mechanical Narrative
 
+![[Copy of Robotics Banner (600 x 200 px).png]]
+
 **Course:** Robotics & Mechatronics (Combined T & A)  
 **Unit:** Unit 3 (Robotic and Mechatronic Systems)  
 **Task Type:** Practical Project (Product & Mechanical Systems Focus)
