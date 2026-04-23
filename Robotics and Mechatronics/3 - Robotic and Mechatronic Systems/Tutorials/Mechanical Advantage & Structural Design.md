@@ -56,7 +56,7 @@ Now, what is the difference between the two? Speed is obvious, but torque is wha
 
 Important things to remember is that in most mechanisms there are always two: A driver gear and a follower gear.
 
-![[master-yoda-always-two-there-are.gif |50px]]
+![[master-yoda-always-two-there-are.gif |200]]
 
 Gears can sometimes be hidden in mechanisms, so often it's also useful to think of the axles (which are often what transfers the energy from the gear) as the input axle and output axle.
 
