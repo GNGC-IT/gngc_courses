@@ -84,8 +84,10 @@ That's the basic introduction to gears, but there is a lot more to go into for a
 
 By the end of the double lesson, in a group of two-three you need to:
 
-1. Create a Lego System that _moves an object_ using at least **two** of the Mechanisms listed above.
-2. Video the successful run of your system.
+1. Create a Lego System that _moves lego ball as close to 1 metre as possible_ using at least **two** of the Mechanisms listed above.
+2. It must be a free standing structure. No parts of the device can be secured to the surface by anything other than itself.
+3. The device is powered by **physics hanging weights**. The load on the weights is optional, but more points will be awarded for less weight used to achieve your goal.
+4. Video the successful run of your system.
 
 Here is some inspiration for Lego mechanical systems:
 
