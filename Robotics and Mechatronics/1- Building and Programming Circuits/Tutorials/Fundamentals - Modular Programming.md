@@ -141,24 +141,7 @@ boolean validPotentiometerReading() {
 > This task will involve writing and interfacing with two functions, the first to read the value set by the potentiometer, and the second to set the brightness of the LED.
 
 
-Log into [Tinkercad](https://www.tinkercad.com/) and access the classroom used previously. Open the activity `Bank Alarm`.
-
-> [!info]  Remember to sign in with your school google account.
-
-
-With the Activity open, Under Shared with You, choose Copy and Tinker.
-
-![[modularisationCopyAndTinker.png]]
-
-Open the Code tab to view the initial code.
-
-Currently, the code:
-
-- configures pin A0 to be INPUT
-- configures pin 9 to put OUTPUT, and
-- enables the Serial Monitor.
-
-![[modularisationCodeStart.png]]
+Log into [Tinkercad](https://www.tinkercad.com/) to complete the task.
 
 > [!info] **Explanation.**
 > 
