@@ -40,14 +40,14 @@ pinMode(button, INPUT);
 void loop() {
 
 	if(digitalRead(button) == 1){
-		blinkylight(greenLED);
+		blinkyLight(greenLED);
 	}
 	else{
 		blinkyLight(redLED);
 	}
 }
 
-void blinkLight(int led){
+void blinkyLight(int led){
 	digitalWrite(led, HIGH);
 	delay(1000);
 	digitalWrite(led, LOW);
