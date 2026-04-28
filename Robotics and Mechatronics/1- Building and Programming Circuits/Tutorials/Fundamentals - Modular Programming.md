@@ -20,6 +20,41 @@ In Arduino, writing your own function requires the specific syntax of a C-based 
 
 The curly brackets - `{}` - determine the start and the end of the function code block, which is run when the function is called.  
 
+Here is an example of code which allows us to blink different LEDs using the same code but calling a different pin.
+
+### BlinkyLED
+
+```arduino
+int greenLED = 4;
+int redLED = 5;
+int button = 6;
+
+void setup(){
+
+pinMode(greenLED, OUTPUT);
+pinMode(redLED, OUTPUT);
+pinMode(button, INPUT);
+
+}
+
+void loop() {
+
+	if(digitalRead(button) == 1){
+		blinkylight(greenLED);
+	}
+	else{
+		blinkyLight(redLED);
+	}
+}
+
+void blinkLight(int led){
+	digitalWrite(led, HIGH);
+	delay(1000);
+	digitalWrite(led, LOW);
+	delay(1000);
+}
+```
+
 ### Returning Data
 
 `return` is the keyword to end the function and “send” data back to where the function was called from.
