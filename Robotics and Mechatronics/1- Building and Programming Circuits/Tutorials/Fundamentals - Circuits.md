@@ -100,7 +100,7 @@ The code is also fairly straight forward.
 - Use a 6V battery pack to power your output but remember, you'll need to combine your work of Ohm's Law to ensure you've got enough resistance in the circuit.
 - Show your working / calculations in your notes!
 
-## Lesson 3: BOUNUS ROUND! Kirchhoff's Voltage Law
+## Lesson 3: BONUS ROUND! Kirchhoff's Voltage Law
 
 Kirchhoff’s Voltage Law is another of these fundamental laws. It states that “for a closed loop series path the algebraic sum of all the voltages around any closed loop in a circuit is equal to zero.” This is due to the fact that in a closed circuit, no voltage should be lost.
 
