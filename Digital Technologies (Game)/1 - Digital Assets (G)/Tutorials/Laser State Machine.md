@@ -1,3 +1,5 @@
+# Laser State Machine
+
 Today, we're going to be making a basic FSM based on a timed laser that our player will need to navigate around. This is basically the goal:
 
 ![[laser_eg.gif]]
