@@ -1,3 +1,5 @@
+# Checkpoints 
+
 Steps:
 1. Create the checkpoint flag scene
 2. Checkpoint script on Flag
