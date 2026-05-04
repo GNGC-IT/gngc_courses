@@ -93,7 +93,7 @@ func change_state(new_state):
 			timer.stop()
 		states.ON:
 			timer.start(2.0)
-		states.WARMUP:
+		states.COOL:
 			timer.stop()
 
 func laser_warmup(delta):
