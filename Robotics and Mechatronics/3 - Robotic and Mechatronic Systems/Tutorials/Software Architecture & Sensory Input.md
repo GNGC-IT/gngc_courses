@@ -9,5 +9,6 @@
     - **Modular Programming:** Refactoring code into functions (e.g., `moveRobot()`, `readSensors()`) to meet the "High/Excellent" logic criteria.
         
 - **Documentation Requirement:** * A flow-chart of the main program logic.
-    
+
+Time to revist ![[Fundamentals - Modular Programming]]
     - Code snippets showing how a specific technical hurdle was overcome.
