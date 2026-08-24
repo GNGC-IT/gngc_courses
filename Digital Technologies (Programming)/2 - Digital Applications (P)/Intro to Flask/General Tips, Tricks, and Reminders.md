@@ -88,3 +88,16 @@ a {
 }
 ```
 Set the colour to whatever you want the text colour on your webpage to be, and `text-decoration: none` will turn off any underlining that is happening.
+
+### The CSS for that card if you're interested
+```css
+.game-card {
+    border: solid 1px black;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    float: left;
+}
+```
