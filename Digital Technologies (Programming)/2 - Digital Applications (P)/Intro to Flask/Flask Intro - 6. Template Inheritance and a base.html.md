@@ -93,7 +93,7 @@ You can see here, our `base.html` has all the essential code, and defines a **ti
 ### pokemon.html
 Our pokemon page (which renders the details of a single pokemon), has just three sections:
 - References the `base.html` template, so Flask knows to inherit most of the details from there
-- Then just fills in the contents of the Title and Content blocks.
+- just fills in the contents of the Title and Content blocks.
 ```jinja2
 {% extends "base.html" %}
 
